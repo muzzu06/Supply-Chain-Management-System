@@ -15,7 +15,12 @@ This is a desktop-based Supply Chain Management System built using Python's Tkin
 - SQLite (Database)
 
 ## How to Run
-1. Clone or download this repository
-2. Run any `.py` file using:
-   ```bash
-   python3 filename.py
+1. Clone the repo or download the ZIP
+2. Make sure Python 3 is installed
+3. Run:
+```bash
+python3 supplier_form.py
+
+![Supplier Form](screenshots/supplier_form.png)
+
+
