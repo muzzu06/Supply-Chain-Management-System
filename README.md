@@ -1,0 +1,21 @@
+# Supply Chain Management System
+
+This is a desktop-based Supply Chain Management System built using Python's Tkinter and SQLite.
+
+## Features
+- Admin login
+- Supplier registration and management
+- Inventory tracking and table view
+- Order placement form
+- Report summary with total orders, suppliers, and inventory value
+
+## Technologies Used
+- Python 3.8+
+- Tkinter (GUI)
+- SQLite (Database)
+
+## How to Run
+1. Clone or download this repository
+2. Run any `.py` file using:
+   ```bash
+   python3 filename.py
