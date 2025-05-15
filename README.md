@@ -21,6 +21,5 @@ This is a desktop-based Supply Chain Management System built using Python's Tkin
 ```bash
 python3 supplier_form.py
 
-![Supplier Form](screenshots/supplier_form.png)
 
 
